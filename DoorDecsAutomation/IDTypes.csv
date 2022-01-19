@@ -1,0 +1,6 @@
+ID,Inst,InstSub,MemberType,templateName,logoFile,lx1,lx2,lx3,lx4,profilefileName,px1,px2,px3,px4,is1,is2,isMain1,isMain2,mt1,mt2
+1,Zootopia,City of Animals,Citizen,template2.jpg,logo2.jpeg,80,70,763,784,profilez,1165,460,1795,1094,910,263,1000,70,200,956
+2,Monster,University,Student,template.jpg,logo.jpeg,80,70,763,784,muprofile,1165,460,1795,1094,1200,263,1150,70,200,956
+3,Shrek's,Swamp,Occupant,template3.jpg,logo3.jpeg,80,70,763,784,profiles,1165,460,1795,1094,1250,263,1200,70,150,956
+4,Hotel,Transylvania,Guest,template4.jpg,logo4.jpeg,80,70,763,784,profilet,1165,460,1795,1094,1100,263,1250,70,200,956
+5, ,City of Animals,Citizen,template2.jpg,logo2.jpeg,80,70,763,784,profilez,1165,460,1795,1094,910,263,1000,70,200,956
